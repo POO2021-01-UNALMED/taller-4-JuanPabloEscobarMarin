@@ -47,4 +47,3 @@ public class Persona {
         this.nombre = nombre;
     }
 }
-© 2021 GitHub, Inc.
